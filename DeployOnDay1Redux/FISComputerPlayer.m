@@ -17,6 +17,7 @@
 
 -(FISTicTacToePosition)nextPlay
 {
+    
     return FISTicTacToePositionMake(0, 0);
 }
 
